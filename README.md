@@ -1,2 +1,3 @@
 # GitCourse
 Training
+## Project Notes
